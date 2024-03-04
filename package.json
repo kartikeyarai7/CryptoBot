@@ -1,0 +1,18 @@
+{
+  "name": "readme-github",
+  "version": "1.0.0",
+  "description": "A Software Developer with a penchant for Coding, Marketing, Entrepreneurship, Sports and Gaming. Also, I like binge watching Shark Tank and trading cryptocurrency. I like solving problems that require critical thinking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.2",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
