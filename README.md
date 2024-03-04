@@ -6,7 +6,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your_username/your_repo.git
+git clone [https://github.com/your_username/your_repo.git](https://github.com/kartikeyarai7/CryptoBot.git)
 Install the required dependencies:
 
 bash
